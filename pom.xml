@@ -28,12 +28,12 @@
    <distributionManagement>
         <repository>
             <id>deployment</id>
-            <name>Internal Releases</name>
+            <name>sample-Rel</name>
             <url>http://192.168.40.138:8081/repository/sample-Rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
+            <name>simple</name>
             <url>http://192.168.40.138:8081/repository/simple/</url>
         </snapshotRepository>
     </distributionManagement>
